@@ -5,6 +5,6 @@
 - Add your App/Broker Name and totp api key to secrets.txt file in following manner(without any space, use nextline/enter as a seperator)
 - Angel:YOUR_KEY 
 - Fyers:YOUR_KEY 
-- Launch command prompt where your jar is pasted run command as " java -jar VH1NE_Gauth2.jar Full_path_of_your (refer image)
+- Launch command prompt where your jar is pasted run command as " java -jar VH1NE_Gauth2.jar Full_path_of_your" (refer image)
 - here you go!!!
 - Remember totp life is 30 seconds you might have to run it multiple time if you are using multiple applications at once
