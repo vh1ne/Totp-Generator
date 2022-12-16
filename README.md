@@ -1,6 +1,6 @@
 # Totp-Generator
 - You must have Java version 8 or above installed on your machine 
-    here is link https://www.java.com/en/download/help/download_options.html
+    ,here is link https://www.java.com/en/download/help/download_options.html
 - Download attached Zip file extract content to path that is accessible to current user( avoide directly using "C:")
 - Add your App/Broker Name and totp api key to secrets.txt file in following manner(without any space, use nextline/enter as a seperator)
 - Angel:YOUR_KEY 
